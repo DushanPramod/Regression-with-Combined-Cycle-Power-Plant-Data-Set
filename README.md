@@ -10,3 +10,11 @@ Dataset  [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datase
 - Relative Humidity (RH) in the range 25.56% to 100.16%
 - Exhaust Vacuum (V) in teh range 25.36-81.56 cm Hg
 - Net hourly electrical energy output (EP) 420.26-495.76 MW
+
+## Regressions Types
+
+- Multiple Linear Regression
+- Polynomial Regression
+- Support Vector Regression (SVR)
+- Decision Tree Regression
+- Random Rorest Regression
